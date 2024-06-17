@@ -67,7 +67,7 @@ router.get("/tts", (ctx) => {
     }
 
     try {
-        cleanVoices()
+        //cleanVoices()
         const result = generateTTS(decodeURIComponent(text), voice)
         ctx.body = {
             url: result,
