@@ -224,7 +224,7 @@ const App = () => {
                 <a
                     className="ml-3"
                     title="github"
-                    href="https://github.com/HerbertHe/edge-tts-server"
+                    href="https://github.com/zhonghanwen/edge-tts-server"
                 >
                     <span
                         className="icon-[mdi--github]"
