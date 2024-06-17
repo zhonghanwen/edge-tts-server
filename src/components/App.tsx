@@ -234,7 +234,7 @@ const App = () => {
             </footer>
             {generating && (
                 <div className="fixed top-0 left-0 w-full h-full bg-black/80 text-white flex justify-center items-center z-999">
-                    Generating speech...
+                    Start generating speech...
                 </div>
             )}
         </div>
